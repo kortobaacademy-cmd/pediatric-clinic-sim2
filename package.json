@@ -1,0 +1,9 @@
+{
+  "name": "pediatric-clinic-sim",
+  "version": "1.0.0",
+  "private": true,
+  "description": "محاكاة تفاعلية لحالات أطفال لتدريب الأطباء - بالصوت والنص",
+  "engines": {
+    "node": ">=18"
+  }
+}

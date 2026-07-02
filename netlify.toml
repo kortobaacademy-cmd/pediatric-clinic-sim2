@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+# ملاحظة: مفيش build command لأن مفيش خطوة build — الملفات بتتنشر زي ما هي.
